@@ -4,3 +4,11 @@ title: 객체지향의 사실과 오해
 date: 2023-04-14 12:20:23 +0900
 category: 도서
 ---
+
+# post-sample
+> Hello!
+
+This is code
+```ruby
+print 'hello world'
+```
