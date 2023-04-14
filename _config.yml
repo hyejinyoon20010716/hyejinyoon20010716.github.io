@@ -22,8 +22,10 @@ title: 혜진의 개발 기록
 email: worjc@hs.ac.kr
 description: 
   백엔드
-baseurl: "https://github.com/hyejinyoon20010716/hyejinyoon20010716.github.io.git" # the subpath of your site, e.g. /blog
-url: "https://github.com/hyejinyoon20010716/hyejinyoon20010716.github.io.git" # the base hostname & protocol for your site, e.g. http://example.com
+  baseurl: ""
+url: ""
+#baseurl: "https://github.com/hyejinyoon20010716/hyejinyoon20010716.github.io.git" # the subpath of your site, e.g. /blog
+#url: "https://github.com/hyejinyoon20010716/hyejinyoon20010716.github.io.git" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hyejinyoon20010716
 highlighter: rouge
 svg:
