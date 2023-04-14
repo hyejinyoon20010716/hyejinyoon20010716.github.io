@@ -1,8 +1,8 @@
 ---
 layout: post
-title: book
+title: 객체지향의 사실과 오해 요약 정리
 date: 2023-04-14 12:20:23 +0900
-category: Sample
+category: 도서
 ---
 ![image](C:\git_blog\image\book1)
 
