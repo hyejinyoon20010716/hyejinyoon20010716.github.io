@@ -53,6 +53,13 @@ body {
 	color: #2c3e50;
 }
 
+.custom-font {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
+  color: #0000FF;
+  font-weight: bold;
+}
+
 a {
 	text-decoration: none;
 	color: #007bff;
